@@ -7,7 +7,7 @@ body {
     background-color: #f1e6f7;
 }
 </style>
-</head>
+
 <body>
 </body>
  <center>
