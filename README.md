@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+
  <center><img src="C:\Users\v4rv\Downloads\4viEiHIEzT.png" />
 <html ><head>yea idk</title></head>
 <body>
