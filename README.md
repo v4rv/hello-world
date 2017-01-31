@@ -1,6 +1,6 @@
 
  <center><img src="C:\Users\v4rv\Downloads\4viEiHIEzT.png" />
-<html ><head>yea idk</title></head>
+<html ><head>yea idk
 <body>
 <style>
 body {
@@ -11,6 +11,6 @@ body {
 <body>
 </body>
  <center>
-        <h1>i have no idea what to do tbh</h1> 
+        <h1>does this thing work?</h1> 
 		<a href="C:\Users\v4rv\Documents\index.html\index.html.html">Index.html</a>
    <a href="C:\Users\v4rv\Documents\index.html\ice.html">Ice.html</a>
