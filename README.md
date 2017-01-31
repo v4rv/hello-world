@@ -14,5 +14,3 @@ body {
         <h1>i have no idea what to do tbh</h1> 
 		<a href="C:\Users\v4rv\Documents\index.html\index.html.html">Index.html</a>
    <a href="C:\Users\v4rv\Documents\index.html\ice.html">Ice.html</a>
-</body> 
-</html>
