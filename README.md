@@ -13,5 +13,5 @@ body {
 </body>
  <center>
         <h1>does this thing work?</h1> 
-		<a href="C:\Users\v4rv\Documents\index.html\index.html.html">Index.html</a>
-   <a href="C:\Users\v4rv\Documents\index.html\ice.html">Ice.html</a>
+		<a href="index.html">Index.html</a>
+   <a href="ice.html">Ice.html</a>
