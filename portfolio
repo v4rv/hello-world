@@ -4,18 +4,18 @@
 <body>
 <style>
 body {
-    background-color: #b2c7ea;
+    background-color: #f9eea4;
 }
 </style>
 </head>
 <body>
 </body>
  <center>
-        <h1>Assinments i have done</h1> 
+        <h1>Assignments i have done</h1> 
 	
 	
-		<a href="index.html.html">Index.html</a>
-   <a href="ice.html">Ice.html</a>
-   <a href="home.html">home.html</a>
+		><a href="index.html.html">Index.html</a>
+   > <a href="ice.html">Ice.html</a>
+   > <a href="home.html">home.html</a>
 </body> 
 </html>
